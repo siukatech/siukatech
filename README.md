@@ -91,7 +91,7 @@ I try to group the repositories into 3 categories.
 
 
 - poc-react-backend-archetype ([link](https://github.com/siukatech/poc-react-backend-archetype))  
-  An `archetype` project to generate maven ms-project with importing the `OAuth2`, `end-to-end-encryption` and other features that are taking care by the `react-backend-parent` library.  
+  An `archetype` project to generate maven ms-project with importing the `OAuth2`, `end-to-end-encryption` and other features that are taking care by the `react-backend-core` library.  
 
 
 - poc-dgs-demo ([link](https://github.com/siukatech/poc-dgs-demo))
