@@ -46,6 +46,12 @@ I try to group the repositories into 3 categories.
   `End-to-End-Encryption` (E2EE) is also introduced in this project.  
 
 
+- poc-react-backend-module ([link](https://github.com/siukatech/poc-react-backend-module))  
+  A lib-project for other microservices (ms-project) to import.  
+  OAuth2 is integrated for the SSO with Keycloak as the development identity provider (IdP) server.  
+  `End-to-End-Encryption` (E2EE) is also introduced in this project.  
+
+
 - poc-react-backend-app ([link](https://github.com/siukatech/poc-react-backend-app))  
   A ms-project imports the `react-backend-core` library which mainly focusing on the business logic and flow.  
   OAuth2, end-to-end-encryption and others are taking care by the `react-backend-core` library.  
@@ -58,8 +64,13 @@ I try to group the repositories into 3 categories.
 - openapi-spec ([link](https://github.com/siukatech/openapi-spec))  
   A poc project to test `openapi-specification`.  
 
-  - openapi-generator-example ([link](https://github.com/siukatech/openapi-spec/tree/main/openapi-generator-example))  
-    Test openapi spec referencing other `yaml` / `json` files.  
+
+- openapi-generator-example ([link](https://github.com/siukatech/openapi-spec/tree/main/openapi-generator-example))  
+  Test openapi spec referencing other `yaml` / `json` files.  
+
+
+- poc-spring-jpa-demo ([link](https://github.com/siukatech/poc-spring-jpa-demo))  
+  Test spring jpa and provide *** Collectors.groupingBy examples.  
 
 
 - poc-openapi-generator-example ([link](https://github.com/siukatech/poc-openapi-generator-example))  
